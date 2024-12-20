@@ -1,4 +1,4 @@
-# Argo FE (Components) Monorepo
+# FE Microfrontend container
 
 This is a React application that leverages a microfrontend architecture, where the "Employer" and "Employee" modules are independently running applications that are dynamically imported and integrated into the main application.
 
