@@ -21,8 +21,8 @@ cd Employer
 npm i
 npm start
 
-# Install all the required node_modules and run org-container
-cd org-container
+# Install all the required node_modules and run mfe-container
+cd mfe-container
 npm i
 npm start
 
